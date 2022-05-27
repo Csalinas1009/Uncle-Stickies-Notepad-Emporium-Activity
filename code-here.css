@@ -1,0 +1,70 @@
+#classic {
+    font-weight: 600;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: justify;
+    width: 45%;
+
+
+}
+
+#modern {
+    font-weight: 600;
+    padding: 1em 1.5em 0em 1.5em;
+    font-family: sans-serif;
+    background-color: goldenrod;
+
+}
+
+#impact {
+    border-style: double;
+    border-width: 15px;
+    padding: 15px;
+    background-color: lightgreen;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+#elise {
+    font-family: cursive;
+    font-weight: 900;
+    padding: 1em;
+    text-align: center;
+    border-style: groove;
+    border-width: 6.5px;
+    border-color: burlywood;
+    background-color:blanchedalmond;
+
+
+
+}
+
+#one,
+#two {
+    font-family: sans-serif;
+    display: inline-block;
+    background-color: aquamarine;
+    border-style: ridge;
+    border-width: 7.5px;
+    border-color:darkturquoise;
+    font-weight: bold;
+    padding: 1em;
+    text-align: center;
+    margin-left: 4vw;
+
+}
+
+#gaudi {
+    background-color: coral;
+    font-family: 'Yusei Magic', sans-serif;
+    font-weight: bold;
+    padding: 1em;
+    border-bottom-left-radius: 45px;
+    border-top-right-radius: 45px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+
+}
